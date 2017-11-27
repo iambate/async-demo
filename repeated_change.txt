@@ -18,6 +18,7 @@ num_client = 10
 # timeouts, in milliseconds.  you may change them.
 head_timeout = 3000
 nonhead_timeout = 3000
+client_timeout = 3000
 
 # checkpoint interval.
 checkpt_interval = 4
